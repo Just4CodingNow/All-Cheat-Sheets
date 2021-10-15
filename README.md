@@ -5,11 +5,11 @@ This is my go to place for all the cheat sheets.
 - [BigO](#bigo) 
 - [Frontity](#frontity-react-framework-for-wordpress)
 - [Git Commands](#git-commands)
-- [Markdown] (#markdown)
-- [Python] (#python)
-- [React] (#react)
-- [SSH] (#ssh)
-- [WordPress] (#wordpress)
+- [Markdown](#markdown)
+- [Python](#python)
+- [React](#react)
+- [SSH](#ssh)
+- [WordPress](#wordpress)
 
 
 BigO
